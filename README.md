@@ -2,8 +2,7 @@
 
 Undangan pernikahan digital berbasis web dengan desain **Luxury Gold (Black & Gold)** yang elegan dan premium. Dibangun menggunakan HTML, CSS, dan JavaScript modern dengan sentuhan animasi yang halus untuk pengalaman pengguna yang maksimal.
 
-![Preview Project](https://via.placeholder.com/800x400?text=Screenshot+Undangan+Disini)
-*(Ganti link di atas dengan screenshot undangan kamu setelah di-upload)*
+
 
 ## ✨ Fitur Utama
 
