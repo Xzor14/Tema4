@@ -30,7 +30,7 @@ Undangan pernikahan digital berbasis web dengan desain **Luxury Gold (Black & Go
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/wedding-invitation-luxury.git](https://github.com/username-kamu/wedding-invitation-luxury.git)
+    https://github.com/Xzor14/Tema4.git
     ```
 2.  **Buka File**
     Cukup buka file `index.html` di browser kesayangan Anda.
